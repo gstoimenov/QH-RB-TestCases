@@ -12,3 +12,4 @@ def test_get_version():
     tFile.writelines('\n'+ writeText) #Save version data
     tFile.close()
     print("Version information is collected in file TestData - responses.txt")
+    assert(response.status_code == 200)
