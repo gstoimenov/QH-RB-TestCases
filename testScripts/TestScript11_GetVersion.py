@@ -11,4 +11,4 @@ def test_get_version():
     tFile = open(r"TestData\responses.txt", "a")
     tFile.writelines('\n'+ writeText) #Save version data
     tFile.close()
-    print(r"Please verify version information in file ..TestData\responses.txt ")
+    print("Version information is collected in file TestData - responses.txt")
