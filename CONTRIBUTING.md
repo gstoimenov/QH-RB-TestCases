@@ -2,4 +2,10 @@ added Defect01.docx
 added TestScript13_update_correctBasketName.py
 added TestScript14_update_noBasketName.py
 added TestScript15_update_incorrectBasketName.py
-
+added Test_Script1_CreateBasket.py
+added Test_Script2_CreateBasketNoName.py
+added Test_Script3_CreateBasketExistingName.py
+added Test_Script4_GetBasket.py
+added Test_Script5_GetBasketNoToken.py
+added Test_Script6_GetBasketInvalidName.py
+added Test_Script7_DeleteBasket.py
